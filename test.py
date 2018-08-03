@@ -1,7 +1,7 @@
 #depuis la bibliotheque random, on importe la fonction "randrange" 
 #qui permet de recuperer un chiffre aleatoire
 from random import randrange
-chiffre = random.randrange(100)
+chiffre = randrange(100)
 
 #on cree une variable boolean trouver qui vaut FAUX
 trouver = False
