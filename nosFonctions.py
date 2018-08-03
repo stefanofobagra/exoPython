@@ -1,5 +1,9 @@
+#on defini nos fonctions, chaques fonction comprend :
+#def nomDeFonction () :
+#si on a besoin aue notre fonction nous donne une reponse, on ecrit return plus la valeur a retourner
 def tapezLettre ():
     boite = input("tapez les characteres")
+    #ici, on renvois la valeur contenue dans boite qui contient les characteres tapes 
     return boite
 
 def tapezEntier ():
