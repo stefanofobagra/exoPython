@@ -6,6 +6,7 @@
  -copier l'url de votre depot (bouton vert)
  -tapez la commande : git clone url
 
+
  3em etape :
  -pour configurer git, entreez les commandes suivantes :
 git config --local user.name "NOM"
